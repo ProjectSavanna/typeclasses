@@ -1,0 +1,6 @@
+Library
+  signature EQ
+  signature ORDERED
+is
+  EQ.sig
+  ORDERED.sig
