@@ -1,5 +1,5 @@
 signature EQ =
   sig
     type t
-    val equal : t * t -> bool
+    val eq : t * t -> bool
   end

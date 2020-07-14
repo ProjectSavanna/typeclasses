@@ -1,5 +1,5 @@
 signature ORDERED =
   sig
-    type t
+    include EQ
     val compare : t * t -> order
   end
