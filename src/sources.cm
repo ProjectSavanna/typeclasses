@@ -1,6 +1,12 @@
 Library
   signature EQ
   signature ORDERED
+
+  signature SHOW
+  signature READ
 is
   EQ.sig
   ORDERED.sig
+
+  SHOW.sig
+  READ.sig
