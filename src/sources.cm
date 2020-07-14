@@ -4,9 +4,15 @@ Library
 
   signature SHOW
   signature READ
+
+  signature FUNCTOR
+  signature MONAD
 is
   EQ.sig
   ORDERED.sig
 
   SHOW.sig
   READ.sig
+
+  FUNCTOR.sig
+  MONAD.sig
