@@ -6,6 +6,10 @@ Library
   signature READ
 
   signature FUNCTOR
+  signature FUNCTOR2
+  signature FUNCTOR3
+  signature FUNCTOR4
+
   signature MONAD
 is
   EQ.sig
